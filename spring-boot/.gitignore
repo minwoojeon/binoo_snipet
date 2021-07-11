@@ -1,0 +1,8 @@
+# ignore folders
+/target
+/src/test
+
+# ignore files
+.classpath
+*.class
+/target/**
